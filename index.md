@@ -10,7 +10,7 @@ language: "en"
 latitude: "44.366032"        
 longitude: "-68.196115"       
 humandate: "Mon & Wed, Aug 3-12"    
-humantime: "11am-12:30pm"    
+humantime: "10-11:30am"    
 startdate: 2020-08-03     
 enddate: 2020-08-12       
 instructor: ["Selcan Aydin", "Pariksheet Nanda"] 
