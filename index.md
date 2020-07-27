@@ -17,7 +17,7 @@ instructor: ["Selcan Aydin", "Pariksheet Nanda"]
 helper: ["Sue McClatchy"]
 email: ["susan.mcclatchy@jax.org"]    
 collaborative_notes: 
-eventbrite: 
+eventbrite: 114952690592
 ---
 
 {% comment %}
