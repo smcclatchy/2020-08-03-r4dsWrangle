@@ -16,7 +16,7 @@ enddate: 2020-08-12
 instructor: ["Selcan Aydin", "Pariksheet Nanda"] 
 helper: ["Sue McClatchy"]
 email: ["susan.mcclatchy@jax.org"]    
-collaborative_notes: 
+collaborative_notes: https://pad.carpentries.org/OGhcx80UWGOwdWtaqn4E 
 eventbrite: 114952690592
 ---
 
